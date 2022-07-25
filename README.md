@@ -1,5 +1,1 @@
--=[Proyectos]=-
-
-Hola y bienvenido/a a mi Perfil de Git Hub, subo proyectos de VideoJuegos
-Los proyectos son 100% Indie desarrollados en Unity, soy desarrollador Autodidacta
-Tengo conocimientos basicos en C#, tambien en Modelaje 3D con Blender y un poco de experiencia programando en HTML y CSS desarrollo web
+En este repositorio vas a encontrar todos los Proyectos que desarrolle en Unity, son proyectos simples y basicos voy publicando proyecto tras proyecto para llegar a un cierto de nivel de experiencia
